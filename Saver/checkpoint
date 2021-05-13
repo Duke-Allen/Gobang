@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/ymr/3*3/Saver/cnnsaver.ckpt-0"
+all_model_checkpoint_paths: "/home/ymr/3*3/Saver/cnnsaver.ckpt-0"
